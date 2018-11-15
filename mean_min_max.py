@@ -21,3 +21,4 @@ axes3.plot(numpy.min(data, axis=0))
 fig.tight_layout()
 
 matplotlib.pyplot.show()
+# ciao
